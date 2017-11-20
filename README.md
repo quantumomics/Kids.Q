@@ -17,3 +17,5 @@ Q5. What is children related human rights? Please let's brief about the UNESCO &
 १. एकःद्वीप
 
 २. द्वौद्वीप
+
+Note: https://en.m.wikipedia.org/wiki/Sieve_of_Eratosthenes
