@@ -12,3 +12,7 @@ Q5. What is children related human rights? Please let's brief about the UNESCO &
 
 
 समृद्धिवर्ण for समृद्धिगिरी
+
+१. एकःद्वीप
+
+२. द्वौद्वीप
