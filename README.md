@@ -18,4 +18,6 @@ Q5. What is children related human rights? Please let's brief about the UNESCO &
 
 २. द्वौद्वीप
 
+Dictionary:— https://sa.m.wiktionary.org/wiki/मुख्यपृष्ठम्
+
 Note: https://en.m.wikipedia.org/wiki/Sieve_of_Eratosthenes
