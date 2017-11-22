@@ -25,4 +25,6 @@ Note: https://en.m.wikipedia.org/wiki/Sieve_of_Eratosthenes
 ---------
 References	
  Meija, J.; et al. (2016). "Atomic weights of the elements 2013 (IUPAC Technical Report)". Pure Appl. Chem. 88 (3): 265–91. doi:10.1515/pac-2015-0305.
+ 
+ https://www.mapsofindia.com/maps/minerals/
 
