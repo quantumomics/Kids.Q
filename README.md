@@ -33,3 +33,5 @@ References
  Bharat Gold Mines Ltd.
  
  http://www.voidcan.org/brihaspati-aarti/
+ 
+ http://www.voidcan.org/brihaspati-mantra/
