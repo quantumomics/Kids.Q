@@ -35,3 +35,9 @@ References
  http://www.voidcan.org/brihaspati-aarti/
  
  http://www.voidcan.org/brihaspati-mantra/
+
+
+
+http://www.spiritvoyage.com/blog/wp-content/uploads/images3.jpg
+
+
