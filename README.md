@@ -36,8 +36,25 @@ References
  
  http://www.voidcan.org/brihaspati-mantra/
 
-
-
 http://www.spiritvoyage.com/blog/wp-content/uploads/images3.jpg
+
+https://bost.ocks.org/mike/uberdata/
+
+https://bl.ocks.org/mbostock/1046712
+
+https://bl.ocks.org/mbostock/ff91c1558bc570b08539547ccc90050b
+
+https://bl.ocks.org/mbostock/bf057ec744c0e2fc763c06a31ff292e1
+
+https://bl.ocks.org/mbostock/70d5541b547cc222aa02
+
+https://bl.ocks.org/mbostock/c3034eef9d73b5fdf274
+
+https://bl.ocks.org/mbostock/c034d66572fd6bd6815a
+
+https://bl.ocks.org/mbostock/e6f9e160585c153fa5ec543bd12b81e9
+
+
+
 
 
