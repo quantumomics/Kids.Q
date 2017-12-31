@@ -54,7 +54,7 @@ https://bl.ocks.org/mbostock/c034d66572fd6bd6815a
 
 https://bl.ocks.org/mbostock/e6f9e160585c153fa5ec543bd12b81e9
 
+http://www.hiveplot.com/
 
-
-
+http://www.hiveplot.com/conference/vizbi2011/poster/krzywinski-hiveplot-poster.png
 
